@@ -2,6 +2,8 @@
 
 This is a React component for calendar management.
 
+#Website
+http://calendar-app-timmy.s3-website-us-east-1.amazonaws.com/
 # Features
 
 View Current Date
